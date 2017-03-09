@@ -1,0 +1,21 @@
+Field,Numberofpeople,Income,Earnings_FT,Earnings_ALL,Monthsworked
+total,20850,6401,7790,7251,31
+agriculture,112,0,0,0,0
+architecture,288,4471,6490,5357,32
+business,2971,8125,9071,9510,32
+communications,233,4351,4943,4486,34
+computer,613,7346,8364,7785,35
+education,4421,4479,5194,4602,29
+engineering,1211,7631,8811,8210,3
+literature,350,3942,4746,4133,3
+foreign language,129,0,0,0,0
+law,1513,10328,13001,11677,35
+liberal arts,367,4924,6372,5568,3
+mathematics,299,6447,7697,6533,29
+medicine dentistry,1393,10790,12487,12513,33
+natural science,786,6172,7683,7239,29
+nursing public health,757,5412,6755,6209,32
+philosophy,340,4593,4769,4579,3
+psychology,885,5234,7276,5816,33
+social science,709,4477,6005,4921,29
+other,3470,5267,6591,5947,31
